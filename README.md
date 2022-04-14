@@ -1,2 +1,2 @@
-# Image classificationo
+# Image classification
 Test google tensorflow package. 
